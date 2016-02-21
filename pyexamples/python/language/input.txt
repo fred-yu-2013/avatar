@@ -1,0 +1,5 @@
+!Data Logger Accelerometer] ,
+
+Initializing...
+
+Xac:0.01660156#,Yac:0.02343750?,Zac:1.00683593*

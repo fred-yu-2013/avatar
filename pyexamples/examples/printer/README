@@ -1,0 +1,20 @@
+wxPython Cookbook
+Chapter 6
+Recipe 5 Print Dialogs
+
+This is the example code for Recipe 5 Print Dialogs.
+
+Prerequisites:
+
+1) Python 2.5 or 2.6 has been installed
+2) wxPython 2.8 has been installed for the version of Python used above
+
+How to run this script:
+
+From the command line or your IDE run the following command
+
+python printdlg.py
+
+####
+
+wxPython 2.8 Application Development Cookbook, 源码

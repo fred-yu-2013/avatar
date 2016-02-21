@@ -1,0 +1,48 @@
+>>>> get files.
+C:\Users\Fred\Downloads\alicert.exe
+C:\Users\Fred\Downloads\Basic.exe
+C:\Users\Fred\Downloads\Basic.nsi
+C:\Users\Fred\Downloads\desktop.ini
+C:\Users\Fred\Downloads\GitHubSetup.exe
+C:\Users\Fred\Downloads\IcoFX2.5Chs@20130610.zip
+C:\Users\Fred\Downloads\microsoft-visual-c-2005-redistributable.exe
+C:\Users\Fred\Downloads\msvcp90.dll
+C:\Users\Fred\Downloads\msvcp90.zip
+C:\Users\Fred\Downloads\msvcr90.dll
+C:\Users\Fred\Downloads\msvcr90.zip
+C:\Users\Fred\Downloads\MySQL-python-1.2.4b4.win32-py2.7.exe
+C:\Users\Fred\Downloads\nsis-3.0a2-setup.exe
+C:\Users\Fred\Downloads\Oxford Advanced Learner's English-Chinese Dictionary.ld2
+C:\Users\Fred\Downloads\readme.txt
+C:\Users\Fred\Downloads\vcredist_x86.exe
+C:\Users\Fred\Downloads\vcredist_x86_2008.zip
+C:\Users\Fred\Downloads\WinMerge-2.14.0-Setup.exe
+C:\Users\Fred\Downloads\未确认 324611.crdownload
+C:\Users\Fred\Downloads\未确认 858716.crdownload
+C:\Users\Fred\Downloads\IcoFX2.5Chs@20130610\IcoFX2.5Chs@20130610.exe
+C:\Users\Fred\Downloads\IcoFX2.5Chs@20130610\IcoFX2.5Chs@20130610.txt
+C:\Users\Fred\Downloads\vcredist_x86_2008\vcredist_x86_2008@426767@.exe
+>>>> sorted by file size.
+C:\Users\Fred\Downloads\Oxford Advanced Learner's English-Chinese Dictionary.ld2
+C:\Users\Fred\Downloads\IcoFX2.5Chs@20130610\IcoFX2.5Chs@20130610.exe
+C:\Users\Fred\Downloads\IcoFX2.5Chs@20130610.zip
+C:\Users\Fred\Downloads\WinMerge-2.14.0-Setup.exe
+C:\Users\Fred\Downloads\vcredist_x86.exe
+C:\Users\Fred\Downloads\nsis-3.0a2-setup.exe
+C:\Users\Fred\Downloads\vcredist_x86_2008\vcredist_x86_2008@426767@.exe
+C:\Users\Fred\Downloads\alicert.exe
+C:\Users\Fred\Downloads\MySQL-python-1.2.4b4.win32-py2.7.exe
+C:\Users\Fred\Downloads\GitHubSetup.exe
+C:\Users\Fred\Downloads\vcredist_x86_2008.zip
+C:\Users\Fred\Downloads\microsoft-visual-c-2005-redistributable.exe
+C:\Users\Fred\Downloads\msvcr90.dll
+C:\Users\Fred\Downloads\msvcp90.dll
+C:\Users\Fred\Downloads\未确认 858716.crdownload
+C:\Users\Fred\Downloads\msvcr90.zip
+C:\Users\Fred\Downloads\msvcp90.zip
+C:\Users\Fred\Downloads\Basic.exe
+C:\Users\Fred\Downloads\未确认 324611.crdownload
+C:\Users\Fred\Downloads\Basic.nsi
+C:\Users\Fred\Downloads\readme.txt
+C:\Users\Fred\Downloads\IcoFX2.5Chs@20130610\IcoFX2.5Chs@20130610.txt
+C:\Users\Fred\Downloads\desktop.ini

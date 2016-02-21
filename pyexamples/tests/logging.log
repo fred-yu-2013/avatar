@@ -1,0 +1,9 @@
+[   DEBUG]:This message should go to the log file
+[    INFO]:So should this
+[ WARNING]:And this, too
+[   DEBUG[0]]:This message should go to the log file
+[    INFO[0]]:So should this
+[ WARNING[0]]:And this, too
+[D]:This message should go to the log file
+[I]:So should this
+[W]:And this, too
